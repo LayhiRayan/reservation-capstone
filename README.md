@@ -15,3 +15,5 @@
 ![Capstone - Capture 7](docs/screenshots/execution-7.png)
 
 ![Capstone - Capture 8](docs/screenshots/execution-8.png)
+
+![Capstone - Capture 9](docs/screenshots/execution-9.png)
